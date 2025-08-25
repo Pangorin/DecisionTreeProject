@@ -23,6 +23,6 @@
 - Do NOT use it for real-life mushroom identification, as it may be inaccurate and unsafe.
 
 # Result
-[!Home](https://github.com/Pangorin/DecisionTreeProject/blob/main/images/Screenshot%202025-08-25%20at%2010.11.38.png)
-[!Result1](https://github.com/Pangorin/DecisionTreeProject/blob/main/images/Screenshot%202025-08-25%20at%2010.11.52.png)
-[!Result2](https://github.com/Pangorin/DecisionTreeProject/blob/main/images/Screenshot%202025-08-25%20at%2010.12.14.png)
+![Home](https://github.com/Pangorin/DecisionTreeProject/blob/main/images/Screenshot%202025-08-25%20at%2010.11.38.png)
+![Result1](https://github.com/Pangorin/DecisionTreeProject/blob/main/images/Screenshot%202025-08-25%20at%2010.11.52.png)
+![Result2](https://github.com/Pangorin/DecisionTreeProject/blob/main/images/Screenshot%202025-08-25%20at%2010.12.14.png)
